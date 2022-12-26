@@ -1,5 +1,3 @@
-package Proje2;
-
 public class Fighter {
     String name;
     int damage;
