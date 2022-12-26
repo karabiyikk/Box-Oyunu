@@ -1,5 +1,3 @@
-package Proje2;
-
 public class Box {
     public static void main(String[] args) {
 
@@ -9,6 +7,5 @@ public class Box {
 
         Match match = new Match(f1, f2, 85, 100);
         match.run();
-        match.isChance();
     }
 }
